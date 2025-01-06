@@ -14,7 +14,7 @@ Food allergies affect millions, and accidental exposure to allergens can cause s
    `git clone https://github.com/TejaswiRokkam/SafeBite-Allergen-Detection.git`
    
 2. Start the Flask Backend:  
-   `python flask.py`
+   `python flask_api.py`
 
 3. Start the Streamlit Frontend:  
-   `streamlit run streamlit.py`
+   `streamlit run streamlit app.py`
